@@ -1,0 +1,23 @@
+payload:
+  # Bypass modem
+  - IP-CIDR,192.168.8.1/24
+  # Bypass Port VPN
+  - SRC-PORT,4500
+  - SRC-PORT,3240
+  - DST-PORT,3240
+  - DST-PORT,992
+  - DST-PORT,1194
+  - DST-PORT,1195
+  - DST-PORT,1701
+  - DST-PORT,1702
+  - DST-PORT,1723
+  - DST-PORT,1900
+  - DST-PORT,4500
+  - DST-PORT,5555
+  - DST-PORT,25000
+  # Bypass BUG Trick
+  - DOMAIN,api2-t3.musical.ly
+  - DOMAIN,v9-id.tiktokcdn.com
+  - DOMAIN,v16.tiktokcdn.com
+  - DOMAIN,v24.tiktokcdn.com
+  - DOMAIN,v27.tiktokcdn.com
