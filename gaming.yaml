@@ -2563,3 +2563,7 @@ payload:
   #WpEngine
   - DOMAIN-SUFFIX,wallpaperengineapi.com
   - IP-CIDR,85.214.114.121/32
+  
+  #GrandChase
+  - DOMAIN-KEYWORD,grandchase
+  - DOMAIN-SUFFIX,playkog.com
