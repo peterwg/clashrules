@@ -18,6 +18,18 @@ payload:
   - IP-CIDR6,2001:4860:4860::8844/32
   - IP-CIDR6,2001:4860:4860::6464/32
   - IP-CIDR6,2001:4860:4860::64/32
+  #Google IPV6
+  - DOMAIN,ipv6test.google.com
+  - IP-CIDR6,2001:4860:4000::/36
+  - IP-CIDR6,2404:6800:4000::/36
+  - IP-CIDR6,2607:f8b0:4000::/36
+  - IP-CIDR6,2800:3f0:4000::/36
+  - IP-CIDR6,2a00:1450:4000::/36
+  - IP-CIDR6,2c0f:fb50:4000::/36
+  #Amazon IPV6
+  - IP-CIDR6,2a05:d07c:2000::/40
+  - IP-CIDR6,2a05:d000:8000::/40
+  - IP-CIDR6,2406:dafe:2000::/40
   # Instagram
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,instagram.com
