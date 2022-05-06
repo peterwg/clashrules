@@ -1,0 +1,71 @@
+payload:
+  # GEOIP
+  - GEOIP,e-lan
+  - GEOIP,lan
+  - GEOIP,wan1
+  - GEOIP,wan2
+  # IP list Bypass Openclash
+  - SRC-IP-CIDR,10.80.0.50/32
+  - SRC-IP-CIDR,10.80.0.51/32
+  - SRC-IP-CIDR,10.80.0.52/32
+  - SRC-IP-CIDR,10.80.0.53/32
+  - SRC-IP-CIDR,10.80.0.54/32
+  - SRC-IP-CIDR,10.80.0.55/32
+  - SRC-IP-CIDR,10.80.0.56/32
+  - SRC-IP-CIDR,10.80.0.57/32
+  - SRC-IP-CIDR,10.80.0.58/32
+  - SRC-IP-CIDR,10.80.0.59/32
+  - SRC-IP-CIDR,10.80.0.60/32
+  - SRC-IP-CIDR,192.168.1.50/32
+  - SRC-IP-CIDR,192.168.1.51/32
+  - SRC-IP-CIDR,192.168.1.52/32
+  - SRC-IP-CIDR,192.168.1.53/32
+  - SRC-IP-CIDR,192.168.1.54/32
+  - SRC-IP-CIDR,192.168.1.55/32
+  - SRC-IP-CIDR,192.168.1.56/32
+  - SRC-IP-CIDR,192.168.1.57/32
+  - SRC-IP-CIDR,192.168.1.58/32
+  - SRC-IP-CIDR,192.168.1.59/32
+  - SRC-IP-CIDR,192.168.1.60/32
+  # Bypass IP VPN ( Softher,L2TP,SSTP )
+  - IP-CIDR,104.18.123.3/32
+  - IP-CIDR,104.18.170.91/32
+  - IP-CIDR,104.117.77.186/32
+  - IP-CIDR,10.233.16.13/32
+  - IP-CIDR,36.86.63.19/32
+  - IP-CIDR,103.253.24.0/24 #Singapore Huricane Series
+  - IP-CIDR,103.155.251.0/24 #ID Uninet
+  - IP-CIDR,103.227.253.242/32 #ID RajaMitra
+  - IP-CIDR,202.73.26.230/32 #ID SemutData
+  - IP-CIDR,194.233.84.0/24 #Contoba Series
+  - IP-CIDR,210.247.245.123/32 #ID Poros
+  # Bypass Port VPN
+  - SRC-PORT,4500
+  - SRC-PORT,3240
+  - DST-PORT,3240
+  - DST-PORT,992
+  - DST-PORT,1194
+  - DST-PORT,1195
+  - DST-PORT,1701
+  - DST-PORT,1702
+  - DST-PORT,1723
+  - DST-PORT,1900
+  - DST-PORT,4500
+  - DST-PORT,5555
+  - DST-PORT,25000
+  # Bypass BUG Trick
+  - DOMAIN,api2-t3.musical.ly
+  - DOMAIN,v9-id.tiktokcdn.com
+  - DOMAIN,v16.tiktokcdn.com
+  - DOMAIN,v24.tiktokcdn.com
+  - DOMAIN,v27.tiktokcdn.com
+  #WIFI.ID
+  - DOMAIN-SUFFIX,wifi.id
+  - DOMAIN,lp.wifi.id
+  - DOMAIN,welcome2.wifi.id
+  - DOMAIN,logout.wifi.id
+  - DOMAIN,wms.wifi.id
+  - DOMAIN,q.wifi.id
+  - IP-CIDR,10.233.16.0/24
+  - IP-CIDR,36.86.63.19/32
+  - IP-CIDR,118.98.34.93/32
