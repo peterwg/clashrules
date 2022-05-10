@@ -1,5 +1,9 @@
 payload:
   - GEOIP,ID
+  #IPv4testping
+  - DOMAIN-KEYWORD,ipv4
+  - DOMAIN-SUFFIX,ipv6-test.com
+  - IP-CIDR,51.75.78.103/32
   # TikTok
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
