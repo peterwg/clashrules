@@ -706,7 +706,6 @@ payload:
   - DOMAIN-KEYWORD,spotify.com
   
   # Google
-  - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,blogger
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,goog
@@ -717,7 +716,6 @@ payload:
   - DOMAIN-SUFFIX,google.co.id
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,google-analytics.com
-  - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,telephony.goog
   - DOMAIN-SUFFIX,gvt1.com
