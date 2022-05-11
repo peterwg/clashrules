@@ -705,7 +705,7 @@ payload:
   - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-KEYWORD,spotify.com
   
-  # Google
+  # Google#
   - DOMAIN-KEYWORD,blogger
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,goog
