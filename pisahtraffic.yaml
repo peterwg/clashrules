@@ -22,6 +22,7 @@ payload:
   
   #Google IPV6
   - DOMAIN,ipv6test.google.com
+  - DOMAIN,drive.google.com
   - DOMAIN-KEYWORD,google
   - DOMAIN-SUFFIX,googleusercontent.com
   - IP-CIDR6,2001:4860:4000::/36
