@@ -199,5 +199,6 @@ payload:
   - IP-CIDR,52.144.0.0/12
   - IP-CIDR,52.160.0.0/11
   - IP-CIDR,52.192.0.0/10
+  
   # Spotify-ipv6
   - DOMAIN,dealer.spotify.com
