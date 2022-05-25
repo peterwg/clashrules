@@ -2,6 +2,7 @@ payload:
   #PingTestSite
   - DOMAIN-SUFFIX,gameserverping.com
   - IP-CIDR,199.241.28.20/32
+  - IP-CIDR,192.168.1.20/32
   # FreeFire
   - DOMAIN-KEYWORD,freefire
   - DOMAIN-SUFFIX,garena.com
