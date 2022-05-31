@@ -1,0 +1,4 @@
+payload:
+  - GEOIP,CN
+  - GEOIP,MO
+  - GEOIP,IL
