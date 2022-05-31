@@ -1,5 +1,12 @@
 payload:
   - GEOIP,ID
+  - GEOIP,JP
+  - GEOIP,MY
+  - GEOIP,TH
+  - GEOIP,TW
+  - GEOIP,IN
+  - GEOIP,AU
+  - GEOIP,KR
   #IPv4testping
   - DOMAIN-KEYWORD,ipv4
   - DOMAIN-SUFFIX,ipv6-test.com
