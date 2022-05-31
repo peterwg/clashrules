@@ -4,6 +4,7 @@ payload:
   - GEOIP,IL
   # GoogleADS
   - DOMAIN,ads.google.com
+  - DOMAIN,ads.youtube.com
   - DOMAIN,adservice.google.com
   - DOMAIN,googleadservices.com
   - DOMAIN,pagead2.googleadservices.com
@@ -16,6 +17,8 @@ payload:
   - DOMAIN,m.doubleclick.net
   - DOMAIN,mediavisor.doubleclick.net
   - DOMAIN,googleads.g.doubleclick.net
+  - DOMAIN-SUFFIX,ads.google.com
+  - DOMAIN-SUFFIX,ads.youtube.com
   - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,pagead2.googleadservices.com
   - DOMAIN-SUFFIX,googlesyndication.com
