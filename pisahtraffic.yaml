@@ -1,4 +1,5 @@
 payload:
+  - GEOIP,US
   - GEOIP,UM
   - GEOIP,CA
   - GEOIP,SG
