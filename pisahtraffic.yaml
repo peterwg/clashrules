@@ -1,6 +1,8 @@
 payload:
   - GEOIP,US
+  - GEOIP,CA
   - GEOIP,SG
+  - GEOIP,BR
   #IPV6ThroughRules
   - IP-CIDR6,::/0
   - DOMAIN-KEYWORD,ipv6
