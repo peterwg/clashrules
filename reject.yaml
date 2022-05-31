@@ -3,8 +3,12 @@ payload:
   - GEOIP,MO
   - GEOIP,IL
   - DOMAIN,googlesyndication.com
+  - DOMAIN,tpc.googlesyndication.com
   - DOMAIN,doubleclick.net
   - DOMAIN,static.doubleclick.net
+  - DOMAIN,googleads.g.doubleclick.net
   - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,tpc.googlesyndication.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,static.doubleclick.net
+  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
