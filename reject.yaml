@@ -2,7 +2,6 @@ payload:
   - GEOIP,CN
   - GEOIP,MO
   - GEOIP,IL
-  #ADS
   - DOMAIN,googlesyndication.com
   - DOMAIN,doubleclick.net
   - DOMAIN,static.doubleclick.net
