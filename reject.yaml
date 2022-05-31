@@ -2,7 +2,7 @@ payload:
   - GEOIP,CN
   - GEOIP,MO
   - GEOIP,IL
-  # ADSBlock
+  # GoogleADS
   - DOMAIN,ads.google.com
   - DOMAIN,adservice.google.com
   - DOMAIN,googleadservices.com
@@ -27,3 +27,12 @@ payload:
   - DOMAIN-SUFFIX,m.doubleclick.net
   - DOMAIN-SUFFIX,mediavisor.doubleclick.net
   - DOMAIN-SUFFIX,googleads.g.doubleclick.net
+  # AmazonADS
+  - DOMAIN,adtago.s3.amazonaws.com
+  - DOMAIN-SUFFIX,adtago.s3.amazonaws.com
+  - DOMAIN,analyticsengine.s3.amazonaws.com
+  - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+  - DOMAIN,advice-ads.s3.amazonaws.com
+  - DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
+  - DOMAIN,amazonclix.com
+  - DOMAIN-SUFFIX,amazonclix.com
