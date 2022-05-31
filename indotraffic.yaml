@@ -3,10 +3,17 @@ payload:
   - GEOIP,JP
   - GEOIP,MY
   - GEOIP,TH
+  - GEOIP,BN
   - GEOIP,TW
   - GEOIP,IN
   - GEOIP,AU
   - GEOIP,KR
+  - GEOIP,RU
+  - GEOIP,FR
+  - GEOIP,UK
+  - GEOIP,DE
+  - GEOIP,FI
+  - GEOIP,EU
   #IPv4testping
   - DOMAIN-KEYWORD,ipv4
   - DOMAIN-SUFFIX,ipv6-test.com
