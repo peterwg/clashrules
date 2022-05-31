@@ -2,3 +2,8 @@ payload:
   - GEOIP,CN
   - GEOIP,MO
   - GEOIP,IL
+  #ADS
+  - DOMAIN,googlesyndication.com
+  - DOMAIN,doubleclick.net
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,doubleclick.net
