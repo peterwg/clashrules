@@ -3,6 +3,10 @@ payload:
   - GEOIP,CA
   - GEOIP,SG
   - GEOIP,BR
+  - GEOIP,EG
+  - GEOIP,AE
+  - GEOIP,AF
+  - GEOIP,AR
   #IPV6ThroughRules
   - IP-CIDR6,::/0
   - DOMAIN-KEYWORD,ipv6
