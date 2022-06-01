@@ -3,6 +3,7 @@ payload:
   - GEOIP,MO
   - GEOIP,IL
   # GoogleADS
+  - DOMAIN,ssl.google-analytics.com
   - DOMAIN,ads.google.com
   - DOMAIN,ads.youtube.com
   - DOMAIN,adservice.google.com
@@ -17,6 +18,7 @@ payload:
   - DOMAIN,m.doubleclick.net
   - DOMAIN,mediavisor.doubleclick.net
   - DOMAIN,googleads.g.doubleclick.net
+  - DOMAIN,google-analytics.com
   - DOMAIN-SUFFIX,ads.google.com
   - DOMAIN-SUFFIX,ads.youtube.com
   - DOMAIN-SUFFIX,googleadservices.com
@@ -30,7 +32,12 @@ payload:
   - DOMAIN-SUFFIX,m.doubleclick.net
   - DOMAIN-SUFFIX,mediavisor.doubleclick.net
   - DOMAIN-SUFFIX,googleads.g.doubleclick.net
+  - DOMAIN-SUFFIX,google-analytics.com
   # AmazonADS
+  - DOMAIN,affiliationjs.s3.amazonaws.com
+  - DOMAIN,advertising-api-eu.amazon.com
+  - DOMAIN,analyticsengine.s3.amazonaws.com
+  - DOMAIN-SUFFIX,s3.amazonaws.com
   - DOMAIN,adtago.s3.amazonaws.com
   - DOMAIN-SUFFIX,adtago.s3.amazonaws.com
   - DOMAIN,analyticsengine.s3.amazonaws.com
@@ -39,3 +46,11 @@ payload:
   - DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
   - DOMAIN,amazonclix.com
   - DOMAIN-SUFFIX,amazonclix.com
+  # MediaNET
+  - DOMAIN,media.net
+  - DOMAIN,static.media.net
+  - DOMAIN,adservetx.media.net
+  - DOMAIN-SUFFIX,media.net
+  # HOTJAR
+  - DOMAIN,static.hotjar.com
+  - DOMAIN-SUFFIX,hotjar.com
