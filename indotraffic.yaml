@@ -925,7 +925,7 @@ payload:
   
   #Reddit
   - DOMAIN-KEYWORD,reddit
-  - DOMAIM.www.reddit.com
+  - DOMAIN,www.reddit.com
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditmedia.com
   - DOMAIN-SUFFIX,redd.it
