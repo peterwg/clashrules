@@ -923,7 +923,6 @@ payload:
   - DOMAIN-KEYWORD,uptobox
   - DOMAIN-SUFFIX,uptobox.com
   
-  #Reddit
   - DOMAIN-KEYWORD,reddit
   - DOMAIN,www.reddit.com
   - DOMAIN-SUFFIX,reddit.com
