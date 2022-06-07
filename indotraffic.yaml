@@ -922,3 +922,12 @@ payload:
   #UptoBox
   - DOMAIN-KEYWORD,uptobox
   - DOMAIN-SUFFIX,uptobox.com
+  
+  #Reddit
+  - DOMAIN-KEYWORD,reddit
+  - DOMAIM.www.reddit.com
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,redditstatic.com
+  - IP-CIDR,151.101.1.140/32
