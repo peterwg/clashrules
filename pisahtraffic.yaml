@@ -16,12 +16,12 @@ payload:
   #DNS
   - DOMAIN,dns.google
   - DOMAIN,dns64.dns.google
+  - DOMAIN,5stj08e4th.cloudflare-gateway.com
   - IP-CIDR,8.8.8.8/32
   - IP-CIDR,8.8.4.4/32
-  - IP-CIDR,208.67.222.222/32
-  - IP-CIDR,208.67.220.220/32
-  - IP-CIDR,80.80.80.80/32
-  - IP-CIDR,80.80.81.81/32
+  - IP-CIDR,172.64.36.1/32
+  - IP-CIDR,172.64.36.2/32
+  - IP-CIDR6,2a06:98c1:54::2:37bf/32
   - IP-CIDR6,64:ff9b::/96
   - IP-CIDR6,2001:4860:4860::8888/32
   - IP-CIDR6,2001:4860:4860::8844/32
